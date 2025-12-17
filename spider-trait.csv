@@ -1,0 +1,174 @@
+species,trait
+D-tenebrosus ,dense-habitat
+D-tenebrosus ,roaming
+D-tenebrosus ,widespread
+D-tenebrosus ,low-male-MR
+D-tenebrosus ,high-female-MR
+D-tenebrosus ,male-biased-SR
+D-tenebrosus ,extreme-SSD
+D-tenebrosus ,spont-male-death
+D-tenebrosus ,mod-precop-aggr
+D-tenebrosus ,freq-precop-aggr
+D-tenebrosus ,freq-precop-can
+D-tenebrosus ,freq-postcop-can
+D-tenebrosus ,freq-gen-dam
+D-tenebrosus ,protandry
+D-tenebrosus ,interm-risk-MS
+D-tenebrosus ,interm-cop-dur
+D-tenebrosus ,long-cop-dur
+D-tenebrosus ,interm-lat-cop
+D-tenebrosus ,one-palp
+D-triton ,dense-habitat
+D-triton ,roaming
+D-triton ,widespread
+D-triton ,high-male-MR
+D-triton ,low-female-MR
+D-triton ,equal-SR
+D-triton ,moderate-SSD
+D-triton ,mod-precop-aggr
+D-triton ,mod-precop-can
+D-triton ,mod-postcop-can
+D-triton ,freq-postcop-can
+D-triton ,rare-gen-dam
+D-triton ,protandry
+D-triton ,guard-subadult
+D-triton ,interm-cop-dur
+D-triton ,one-palp
+D-triton ,var-palp
+L-hasselti,dense-habitat
+L-hasselti,widespread
+L-hasselti,sedentary
+L-hasselti,low-male-MR
+L-hasselti,interm-male-MR
+L-hasselti,interm-female-MR
+L-hasselti,extreme-SSD
+L-hasselti,male-self-sacrifice
+L-hasselti,rare-precop-aggr
+L-hasselti,rare-precop-can
+L-hasselti,freq-postcop-can
+L-hasselti,freq-gen-dam
+L-hasselti,protandry
+L-hasselti,guard-subadult
+L-hasselti,high-risk-MS
+L-hasselti,long-cop-dur
+L-hasselti,long-lat-cop
+L-hasselti,var-palp
+L-hesperus,open-habitat
+L-hesperus,sedentary
+L-hesperus,widespread
+L-hesperus,interm-male-MR
+L-hesperus,high-male-MR
+L-hesperus,high-female-MR
+L-hesperus,male-biased-SR
+L-hesperus,equal-SR
+L-hesperus,extreme-SSD
+L-hesperus,freq-precop-aggr
+L-hesperus,rare-precop-can
+L-hesperus,rare-postcop-can
+L-hesperus,freq-gen-dam
+L-hesperus,protandry
+L-hesperus,guard-subadult
+L-hesperus,high-risk-MS
+L-hesperus,long-cop-dur
+L-hesperus,long-lat-cop
+L-hesperus,two-palp
+T-sisyphoides,dense-habitat
+T-sisyphoides,sedentary
+T-sisyphoides,widespread
+T-sisyphoides,low-male-MR
+T-sisyphoides,interm-female-MR
+T-sisyphoides,extreme-SSD
+T-sisyphoides,spont-male-death
+T-sisyphoides,freq-gen-dam
+T-sisyphoides,protandry
+T-sisyphoides,long-cop-dur
+T-sisyphoides,short-lat-cop
+T-sisyphoides,one-palp
+E-gibberosum,dense-habitat
+E-gibberosum,sedentary
+E-gibberosum,range-restricted
+E-gibberosum,low-male-MR
+E-gibberosum,low-female-MR
+E-gibberosum,extreme-SSD
+E-gibberosum,spont-male-death
+E-gibberosum,freq-postcop-can
+E-gibberosum,freq-gen-dam
+E-gibberosum,short-lat-cop
+E-gibberosum,one-palp
+A-bruennichi,open-habitat
+A-bruennichi,sedentary
+A-bruennichi,widespread
+A-bruennichi,interm-male-MR
+A-bruennichi,interm-female-MR
+A-bruennichi,high-female-MR
+A-bruennichi,moderate-SSD
+A-bruennichi,extreme-SSD
+A-bruennichi,freq-postcop-can
+A-bruennichi,freq-gen-dam
+A-bruennichi,short-cop-dur
+A-bruennichi,interm-cop-dur
+A-bruennichi,short-lat-cop
+A-bruennichi,one-palp
+A-bruennichi,var-palp
+A-keyserlingi,open-habitat
+A-keyserlingi,sedentary
+A-keyserlingi,widespread
+A-keyserlingi,interm-male-MR
+A-keyserlingi,interm-female-MR
+A-keyserlingi,extreme-SSD
+A-keyserlingi,freq-precop-aggr
+A-keyserlingi,rare-precop-can
+A-keyserlingi,mod-postcop-can
+A-keyserlingi,freq-postcop-can
+A-keyserlingi,freq-gen-dam
+A-keyserlingi,interm-cop-dur
+A-keyserlingi,interm-lat-cop
+A-keyserlingi,one-palp
+A-keyserlingi,sperm-depl
+A-keyserlingi,postcop-MG
+T-senegalensis,open-habitat
+T-senegalensis,sedentary
+T-senegalensis,widespread
+T-senegalensis,high-male-MR
+T-senegalensis,high-female-MR
+T-senegalensis,extreme-SSD
+T-senegalensis,rare-postcop-can
+T-senegalensis,freq-postcop-can
+T-senegalensis,protandry
+T-senegalensis,interm-cop-dur
+T-senegalensis,one-palp
+T-senegalensis,sperm-depl
+T-senegalensis,postcop-MG
+N-livida,dense-habitat
+N-livida,sedentary
+N-livida,range-restricted
+N-livida,low-male-MR
+N-livida,interm-female-MR
+N-livida,high-female-MR
+N-livida,extreme-SSD
+N-livida,freq-postcop-can
+N-livida,freq-gen-dam
+N-livida,short-cop-dur
+N-livida,var-palp
+N-livida,postcop-MG
+S-incana,dense-habitat
+S-incana,sedentary
+S-incana,widespread
+S-incana,interm-female-MR
+S-incana,male-biased-SR
+S-incana,moderate-SSD
+S-incana,protandry
+S-incana,guard-subadult
+S-incana,long-cop-dur
+S-incana,one-palp
+S-incana,postcop-MG
+P-johnsoni,dense-habitat
+P-johnsoni,sedentary
+P-johnsoni,widespread
+P-johnsoni,high-female-MR
+P-johnsoni,rare-postcop-can
+P-johnsoni,protandry
+P-johnsoni,guard-subadult
+P-johnsoni,long-cop-dur
+P-johnsoni,interm-lat-cop
+P-johnsoni,two-palp
